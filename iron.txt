@@ -1,6 +1,8 @@
 Nombre: Iron
 Apellido: Cuervo
-Apodo: Destructor, Wachon
+Apodo: Destructor, Wachon, Pingatron
 HINCHA DE SAN LORENZO
-2019-01-01
-V1
+2020-01-01
+V2
+
+A
